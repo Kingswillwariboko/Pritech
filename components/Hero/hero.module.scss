@@ -1,0 +1,30 @@
+.hero{
+    margin: 1rem;
+    width: 90%;
+    margin: 0 auto;
+
+    p{
+        font-family: 'Archivo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 44px;
+        /* or 138% */
+        
+        
+        color: #000000;
+    }
+
+    button{
+        background: #FFFFFF;
+        border: 2px solid #000000;
+        border-radius: 29.5px;
+        font-family: 'Archivo';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 17px;
+        color: #000000;
+        padding: .8rem;
+    }
+}
